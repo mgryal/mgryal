@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on ... [Outlier SpA](https://outlier.cl/).
-- 🌱 I’m currently learning ... Golang, GraphQL, 
+- 🔭 I’m currently working on [Outlier SpA](https://outlier.cl/).
+- 🌱 I’m currently learning Golang, GraphQL, 
 - 📫 How to reach me: mgryal.d@gmail.com
 
 <h2 align="center">Statistics</h2>
