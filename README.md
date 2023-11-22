@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <h2 align="center">Statistics</h2>
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats-ecru-three-73.vercel.app/api?username=mgryal&show_icons=true&count_private=true&theme=merko&hide_border=true&hide=issues,contribs">
+  <img height="50%" width="auto" src ="https://github-readme-stats-darakus1420.vercel.app/api?username=mgryal&show_icons=true&count_private=true&theme=merko&hide_border=true&hide=issues,contribs">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mgryal&layout=compact&hide_border=true&theme=merko&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=mgryal&theme=merko&hide_border=true">
 </p>
